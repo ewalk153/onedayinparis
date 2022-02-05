@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    priority_queue_cxx (0.3.4)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  priority_queue_cxx (~> 0.3.4)
+
+BUNDLED WITH
+   2.3.4
