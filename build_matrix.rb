@@ -69,7 +69,10 @@ puts "Parsing"
 data = DATA.read
 data.split("\n").each_with_index { |l, i| add(*l.split("\t")) if i > 0 }
 matrix_size = Node.all.count
-matrix = matrix_size.times.map { [0] * matrix_size }
+matrix = matrix_size.times.map { [1_000_000] * matrix_size }
+matrix_size.times.each do |i|
+  matrix[i][i] = 0
+end
 Edge.all.each { |e| matrix[e.depart_id][e.arrival_id] = e.duration }
 CSV.open("matrix.csv", "w") do |csv|
   matrix.each do |r|
