@@ -74,6 +74,50 @@ def dijkstra(graph, source, destination)
   return nil
 end
 
+# def class Route
+#   attr_reader :cost, :path
+#   def intitialize(cost:, path:)
+#     @cost = cost
+#     @path = path
+#   end
+# end
+
+# def dijkstra_all(graph, source)
+#   switch_cost = 20
+#   visited = {}
+#   q = FastContainers::PriorityQueue.new(:min)
+#   graph.find_edges(source).map do |e|
+#     q.push(e, e.cost)
+#   end
+#   visited[source] = Route.new(0, [])
+
+  
+
+#   q.pop_each do |e, cost|
+#     if e.destination == destination
+#       binding.pry
+#       return [cost, visited[e.source]+[e]]
+#     end
+#     if visited.key?(e.destination) && cost > dist[e.destination]
+#       next
+#     end
+#     dist[e.destination] = cost
+#     visited[e.destination] = visited[e.source] + [e]
+
+#     graph.find_edges(e.destination).map do |next_e|      
+#       line_switch = if e.line == next_e.line
+#         0
+#       else
+#         switch_cost
+#       end
+
+#       q.push(next_e, next_e.cost + line_switch + cost)
+#     end
+#   end
+
+#   return nil
+# end
+
 def print_q(q)
   q.each { |z, c| puts "#{z}=>#{c}" }
 end
