@@ -1,6 +1,7 @@
 nodes.csv
 edges.csv
 matrix.csv
+full_matrix.csv
 
 # Ignore all logfiles and tempfiles.
 /plotter-app/log/*
