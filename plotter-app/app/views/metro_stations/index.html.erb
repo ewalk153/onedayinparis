@@ -1,0 +1,40 @@
+<p style="color: green"><%= notice %></p>
+
+<div style="width: 3500px">
+<h1>Metro stations</h1>
+<!-- plot location of text is -30, -30 from position selected -->
+<div style="width: 3150px; float: left">
+  <div class="container" style="position: relative;">
+    <%= image_tag "metro-1.jpg", id: "metro-map", width: "3150", height: "3150" %>
+    <% @metro_stations.select { |m| !m.x.nil? }.each do |metro_station| %>
+    <div style="  position: absolute; top: <%= metro_station.y%>px; left: <%= metro_station.x%>px; color: red;">
+    <%= metro_station.name %>
+    </div>
+    <% end %>
+  </div>
+</div>
+<div id="metro_stations" style="position: fixed; top: 10px; right: 5px; border: 1px solid #000; height: 600px; overflow-y: scroll; background-color: #fff">
+  <% @metro_stations.each do |metro_station| %>
+    <%= turbo_frame_tag metro_station do %>
+    <%= render metro_station %>
+      <p>
+        <%= link_to "Show this metro station", edit_metro_station_path(metro_station) %>
+      </p>
+    <% end %>
+  <% end %>
+</div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>  
+<script>
+$(document).ready(function() {
+    $("#metro-map").on("click", function(event) {
+        var x = event.pageX - this.offsetLeft;
+        var y = event.pageY - this.offsetTop;
+        // alert("X Coordinate: " + x + " Y Coordinate: " + y);
+        $("#metro_station_x").val(x);
+        $("#metro_station_y").val(y);
+    });
+});
+
+</script>

@@ -1,0 +1,18 @@
+<%= turbo_frame_tag metro_station do %>
+<hr>
+<div id="<%= dom_id metro_station %>">
+  <p>
+    <strong>Name:</strong>
+    <%= metro_station.name %>
+  </p>
+  <p>
+    <strong>Node:</strong>
+    <%= metro_station.node_id %>
+  </p>
+  <p>
+    <strong>X, Y</strong>
+    <%= metro_station.x %>,
+    <%= metro_station.y %>
+  </p>
+</div>
+<% end %>

@@ -1,0 +1,15 @@
+<%= turbo_frame_tag @metro_station do %>
+<div id="<%= dom_id @metro_station %>">
+<h1>Editing metro station</h1>
+
+<%= render "form", metro_station: @metro_station %>
+
+<br>
+
+<div>
+  <%= link_to "Show this metro station", @metro_station %> |
+  <%= link_to "Back to metro stations", metro_stations_path %>
+</div>
+  <%= link_to 'Cancel', metro_station_path(@metro_station) %>
+<% end %>
+</div>

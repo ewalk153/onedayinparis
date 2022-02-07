@@ -1,3 +1,29 @@
 nodes.csv
 edges.csv
 matrix.csv
+
+# Ignore all logfiles and tempfiles.
+/plotter-app/log/*
+/plotter-app/tmp/*
+!/plotter-app/log/.keep
+!/plotter-app/tmp/.keep
+
+# Ignore pidfiles, but keep the directory.
+/plotter-app/tmp/pids/*
+!/plotter-app/tmp/pids/
+!/plotter-app/tmp/pids/.keep
+
+# Ignore uploaded files in development.
+/plotter-app/storage/*
+!/plotter-app/plotter-app/storage/.keep
+/tmp/storage/*
+!/plotter-app/tmp/storage/
+!/plotter-app/tmp/storage/.keep
+
+/plotter-app/public/assets
+
+# Ignore master key for decrypting credentials and more.
+/plotter-app/config/master.key
+
+/plotter-app/app/assets/builds/*
+!/plotter-app/app/assets/builds/.keep

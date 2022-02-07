@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @metro_station %>
+
+<div>
+  <%= link_to "Edit this metro station", edit_metro_station_path(@metro_station) %> |
+  <%= link_to "Back to metro stations", metro_stations_path %>
+
+  <%= button_to "Destroy this metro station", @metro_station, method: :delete %>
+</div>

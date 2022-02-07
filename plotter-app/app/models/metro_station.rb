@@ -1,0 +1,2 @@
+class MetroStation < ApplicationRecord
+end
