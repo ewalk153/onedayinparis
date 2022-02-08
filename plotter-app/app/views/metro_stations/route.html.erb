@@ -13,7 +13,6 @@ canvas{
 $(document).ready(function(){
   var stations = <%= raw Hash[@metro_stations.map { |m| [m.node_id, m] }].to_json %>;
   var route = <%= raw MetroStation.optim_path.split(",").to_json %>;
-  console.log(stations);
   var imageDpi = 300;
 
   var can = document.getElementById('canvas');
