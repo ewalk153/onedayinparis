@@ -92,8 +92,8 @@ Line	Start	End	Duration	One Way?
 1	Champs Élysées–Clemenceau 	Concorde	0:02	
 1	Franklin D. Roosevelt	Champs Élysées–Clemenceau 	0:02	
 1	George V	Franklin D. Roosevelt	0:01	
-1	Charles de Gaulle–Étoile 	George V	0:01	
-1	Argentine	Charles de Gaulle–Étoile 	0:02	
+1	Charles de Gaulle Etoile 	George V	0:01	
+1	Argentine	Charles de Gaulle Etoile 	0:02	
 1	Porte Maillot	Argentine	0:01	
 1	Les Sablons	Porte Maillot	0:02	
 1	Pont de Neuilly	Les Sablons	0:01	
@@ -121,8 +121,8 @@ Line	Start	End	Duration	One Way?
 2	Monceau	Villiers	0:01	
 2	Courcelles	Monceau	0:01	
 2	Ternes	Courcelles	0:02	
-2	Charles de Gaulle–Étoile 	Ternes	0:01	
-2	Victor Hugo	Charles de Gaulle–Étoile 	0:02	
+2	Charles de Gaulle Etoile 	Ternes	0:01	
+2	Victor Hugo	Charles de Gaulle Etoile 	0:02	
 2	Porte Dauphine	Victor Hugo	0:03	
 3	Gallieni			
 3	Porte de Bagnolet 	Gallieni	0:01	
@@ -228,7 +228,7 @@ Line	Start	End	Duration	One Way?
 6	Trocadéro	Passy	0:01	
 6	Boissière	Trocadéro	0:01	
 6	Kléber	Boissière	0:02	
-6	Charles de Gaulle–Étoile	Kléber	0:02	
+6	Charles de Gaulle Etoile	Kléber	0:02	
 7	La Courneuve–8 mai 1945			
 7	Fort d’Aubervilliers 	La Courneuve–8 mai 1945	0:01	
 7	Aubervilliers–Pantin–Q. Chemins 	Fort d’Aubervilliers 	0:02	

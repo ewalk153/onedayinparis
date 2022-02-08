@@ -21,7 +21,7 @@ class Edge2
 end
 
 class Graph
-  attr_reader :edge_table
+  attr_reader :edge_table, :max_id
   def initialize(edges)
     @edges = edges
     build_edge_table
@@ -33,11 +33,14 @@ class Graph
 
   def build_edge_table
     builder = Hash.new { |h, k| h[k] = Edge2.new }
+    @max_id = 0
     @edges.each do |e|
       builder["#{e.source}-#{e.destination}"].source = e.source
       builder["#{e.source}-#{e.destination}"].destination = e.destination
       builder["#{e.source}-#{e.destination}"].cost = e.cost
       builder["#{e.source}-#{e.destination}"].line << e.line
+      @max_id = e.source.to_i if @max_id < e.source.to_i
+      @max_id = e.destination.to_i if @max_id < e.destination.to_i
     end
 
     @edge_table = Hash.new { |h, k| h[k] = [] }
@@ -136,17 +139,15 @@ def print_q(q)
 end
 
 def run
-  # pp dijkstra(read_edges, "1", "260")
-  full_edges = []
   full_matrix = []
-  0.upto(303).each do |source|
+  graph = read_edges
+  0.upto(graph.max_id).each do |source|
     source = source.to_s
     dist, path = dijkstra_all(read_edges, source)
     matrix_row = []
-    0.upto(303).map do |dest|
+    0.upto(graph.max_id).map do |dest|
       dest = dest.to_s
       matrix_row << dist[dest].to_i || 100000
-      # full_edges << [source, dest, dist[dest], path.map(&:destination)]
     end
     full_matrix << matrix_row
   end
@@ -158,6 +159,6 @@ def run
   end
 
   "done"
-  # pp full_edges
-  # full_matrix.map { |r| puts(r.map{ |c| c.to_s.rjust(5)}.join) }
 end
+
+run
