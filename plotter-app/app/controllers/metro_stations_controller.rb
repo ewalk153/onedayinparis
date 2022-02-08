@@ -3,6 +3,10 @@ class MetroStationsController < ApplicationController
 
   # GET /metro_stations or /metro_stations.json
   def index
+    @metro_stations = MetroStation.where(find_all_filters)
+  end
+
+  def route
     @metro_stations = MetroStation.all
   end
 
@@ -67,5 +71,13 @@ class MetroStationsController < ApplicationController
     # Only allow a list of trusted parameters through.
     def metro_station_params
       params.require(:metro_station).permit(:node_id, :x, :y, :name)
+    end
+
+    def find_all_filters
+      if params[:unset]
+        {x: nil}
+      else
+        {}
+      end
     end
 end

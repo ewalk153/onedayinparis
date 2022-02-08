@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  resources :metro_stations
+  resources :metro_stations do
+    get 'route', on: :collection
+  end
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Defines the root path route ("/")

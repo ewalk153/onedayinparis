@@ -1,0 +1,43 @@
+<canvas id="canvas" width="3150" height="3150">
+    Your browser doesn't support canvas
+</canvas>
+<style>
+canvas{
+    background-image: url(<%= image_path("metro-1.jpg") %>);
+    background-position: center;
+    background-size: 100% 100%;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>  
+<script>
+$(document).ready(function(){
+  var stations = <%= raw Hash[@metro_stations.map { |m| [m.node_id, m] }].to_json %>;
+  var route = <%= raw MetroStation.optim_path.split(",").to_json %>;
+  console.log(stations);
+  var imageDpi = 300;
+
+  var can = document.getElementById('canvas');
+  var ctx = can.getContext('2d');
+  ctx.font = "30px Arial";
+  ctx.fillStyle = "#FF0000";
+  var startX, startY;
+
+  arr = route;
+
+  for (var i = 0; i < arr.length - 1; i++) {
+    var currentElement = stations[arr[i]];
+    ctx.fillText(i, currentElement.x, currentElement.y);
+    var nextElement = stations[arr[i + 1]];
+    drawRoute(currentElement.x, currentElement.y,nextElement.x, nextElement.y );
+  }
+
+  function drawRoute(x, y, stopX, stopY){
+    console.log('draw line')
+    ctx.beginPath();
+    ctx.moveTo(x, y);
+    ctx.lineTo(stopX, stopY);
+    ctx.closePath();
+    ctx.stroke();
+  }
+});
+</script>

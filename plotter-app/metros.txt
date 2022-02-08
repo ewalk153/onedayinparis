@@ -1,0 +1,2415 @@
+Name: Bérault
+
+Node: 0
+
+X, Y 2709, 1962
+
+Show this metro station
+
+Name: Château de Vincennes
+
+Node: 1
+
+X, Y 2752, 2000
+
+Show this metro station
+
+Name: Saint-Mandé–Tourelle
+
+Node: 2
+
+X, Y 2662, 1913
+
+Show this metro station
+
+Name: Porte de Vincennes
+
+Node: 3
+
+X, Y 2574, 1866
+
+Show this metro station
+
+Name: Nation
+
+Node: 4
+
+X, Y 2454, 1832
+
+Show this metro station
+
+Name: Reuilly–Diderot
+
+Node: 5
+
+X, Y 2278, 1926
+
+Show this metro station
+
+Name: Gare de Lyon
+
+Node: 6
+
+X, Y 2107, 1978
+
+Show this metro station
+
+Name: Bastille
+
+Node: 7
+
+X, Y 2014, 1748
+
+Show this metro station
+
+Name: Saint-Paul
+
+Node: 8
+
+X, Y 1886, 1721
+
+Show this metro station
+
+Name: Hôtel de Ville
+
+Node: 9
+
+X, Y 1785, 1620
+
+Show this metro station
+
+Name: Châtelet
+
+Node: 10
+
+X, Y 1664, 1623
+
+Show this metro station
+
+Name: Louvre–Rivoli
+
+Node: 11
+
+X, Y 1451, 1617
+
+Show this metro station
+
+Name: Palais Royal–Musée du Louvre
+
+Node: 12
+
+X, Y 1351, 1618
+
+Show this metro station
+
+Name: Tuileries
+
+Node: 13
+
+X, Y 1233, 1614
+
+Show this metro station
+
+Name: Concorde
+
+Node: 14
+
+X, Y 1105, 1580
+
+Show this metro station
+
+Name: Champs Élysées–Clemenceau
+
+Node: 15
+
+X, Y 1053, 1528
+
+Show this metro station
+
+Name: Franklin D. Roosevelt
+
+Node: 16
+
+X, Y 993, 1464
+
+Show this metro station
+
+Name: George V
+
+Node: 17
+
+X, Y 909, 1384
+
+Show this metro station
+
+Name: Charles de Gaulle–Étoile
+
+Node: 18
+
+X, Y 828, 1295
+
+Show this metro station
+
+Name: Argentine
+
+Node: 19
+
+X, Y 754, 1228
+
+Show this metro station
+
+Name: Porte Maillot
+
+Node: 20
+
+X, Y 665, 1139
+
+Show this metro station
+
+Name: Les Sablons
+
+Node: 21
+
+X, Y 602, 1075
+
+Show this metro station
+
+Name: Pont de Neuilly
+
+Node: 22
+
+X, Y 547, 1022
+
+Show this metro station
+
+Name: Esplanade de La Défense
+
+Node: 23
+
+X, Y 489, 966
+
+Show this metro station
+
+Name: La Défense
+
+Node: 24
+
+X, Y 447, 904
+
+Show this metro station
+
+Name: Avron
+
+Node: 25
+
+X, Y 2420, 1746
+
+Show this metro station
+
+Name: Alexandre Dumas
+
+Node: 26
+
+X, Y 2412, 1643
+
+Show this metro station
+
+Name: Philippe Auguste
+
+Node: 27
+
+X, Y 2409, 1546
+
+Show this metro station
+
+Name: Père Lachaise
+
+Node: 28
+
+X, Y 2409, 1465
+
+Show this metro station
+
+Name: Ménilmontant
+
+Node: 29
+
+X, Y 2337, 1371
+
+Show this metro station
+
+Name: Couronnes
+
+Node: 30
+
+X, Y 2261, 1296
+
+Show this metro station
+
+Name: Belleville
+
+Node: 31
+
+X, Y 2204, 1201
+
+Show this metro station
+
+Name: Colonel Fabien
+
+Node: 32
+
+X, Y 2206, 1100
+
+Show this metro station
+
+Name: Jaurès
+
+Node: 33
+
+X, Y 2193, 997
+
+Show this metro station
+
+Name: Stalingrad
+
+Node: 34
+
+X, Y 2122, 946
+
+Show this metro station
+
+Name: La Chapelle
+
+Node: 35
+
+X, Y 1951, 925
+
+Show this metro station
+
+Name: Barbès-Rochechouart
+
+Node: 36
+
+X, Y 1806, 927
+
+Show this metro station
+
+Name: Anvers
+
+Node: 37
+
+X, Y 1673, 925
+
+Show this metro station
+
+Name: Pigalle
+
+Node: 38
+
+X, Y 1560, 924
+
+Show this metro station
+
+Name: Blanche
+
+Node: 39
+
+X, Y 1410, 922
+
+Show this metro station
+
+Name: Place de Clichy
+
+Node: 40
+
+X, Y 1267, 924
+
+Show this metro station
+
+Name: Rome
+
+Node: 41
+
+X, Y 1174, 944
+
+Show this metro station
+
+Name: Villiers
+
+Node: 42
+
+X, Y 1103, 1019
+
+Show this metro station
+
+Name: Monceau
+
+Node: 43
+
+X, Y 1031, 1094
+
+Show this metro station
+
+Name: Courcelles
+
+Node: 44
+
+X, Y 966, 1159
+
+Show this metro station
+
+Name: Ternes
+
+Node: 45
+
+X, Y 900, 1224
+
+Show this metro station
+
+Name: Charles de Gaulle–Étoile
+
+Node: 46
+
+X, Y 835, 1286
+
+Show this metro station
+
+Name: Victor Hugo
+
+Node: 47
+
+X, Y 687, 1405
+
+Show this metro station
+
+Name: Porte Dauphine
+
+Node: 48
+
+X, Y 585, 1300
+
+Show this metro station
+
+Name: Porte de Bagnolet
+
+Node: 49
+
+X, Y 2657, 1455
+
+Show this metro station
+
+Name: Gallieni
+
+Node: 50
+
+X, Y 2749, 1457
+
+Show this metro station
+
+Name: Gambetta
+
+Node: 51
+
+X, Y 2529, 1462
+
+Show this metro station
+
+Name: Père Lachaise
+
+Node: 52
+
+X, Y 2409, 1467
+
+Show this metro station
+
+Name: Rue Saint-Maur
+
+Node: 53
+
+X, Y 2325, 1466
+
+Show this metro station
+
+Name: Parmentier
+
+Node: 54
+
+X, Y 2265, 1426
+
+Show this metro station
+
+Name: République
+
+Node: 55
+
+X, Y 2034, 1369
+
+Show this metro station
+
+Name: Temple
+
+Node: 56
+
+X, Y 1985, 1401
+
+Show this metro station
+
+Name: Arts et Métiers
+
+Node: 57
+
+X, Y 1937, 1459
+
+Show this metro station
+
+Name: Réaumur-Sébastopol
+
+Node: 58
+
+X, Y 1771, 1486
+
+Show this metro station
+
+Name: Sentier
+
+Node: 59
+
+X, Y 1630, 1479
+
+Show this metro station
+
+Name: Bourse
+
+Node: 60
+
+X, Y 1524, 1481
+
+Show this metro station
+
+Name: Quatre-Septembre
+
+Node: 61
+
+X, Y 1422, 1445
+
+Show this metro station
+
+Name: Opéra
+
+Node: 62
+
+X, Y 1356, 1376
+
+Show this metro station
+
+Name: Havre-Caumartin
+
+Node: 63
+
+X, Y 1295, 1317
+
+Show this metro station
+
+Name: Saint-Lazare
+
+Node: 64
+
+X, Y 1252, 1210
+
+Show this metro station
+
+Name: Europe
+
+Node: 65
+
+X, Y 1171, 1102
+
+Show this metro station
+
+Name: Malesherbes
+
+Node: 66
+
+X, Y 1053, 986
+
+Show this metro station
+
+Name: Wagram
+
+Node: 67
+
+X, Y 1012, 945
+
+Show this metro station
+
+Name: Pereire
+
+Node: 68
+
+X, Y 977, 908
+
+Show this metro station
+
+Name: Porte de Champerret
+
+Node: 69
+
+X, Y 924, 857
+
+Show this metro station
+
+Name: Louise Michel
+
+Node: 70
+
+X, Y 891, 822
+
+Show this metro station
+
+Name: Anatole France
+
+Node: 71
+
+X, Y 854, 787
+
+Show this metro station
+
+Name: Pont de Levallois
+
+Node: 72
+
+X, Y 819, 750
+
+Show this metro station
+
+Name: Saint-Fargeau
+
+Node: 73
+
+X, Y 2674, 1258
+
+Show this metro station
+
+Name: Porte des Lilas
+
+Node: 74
+
+X, Y 2674, 1157
+
+Show this metro station
+
+Name: Pelleport
+
+Node: 75
+
+X, Y 2603, 1356
+
+Show this metro station
+
+Name: Simplon
+
+Node: 76
+
+X, Y 1674, 727
+
+Show this metro station
+
+Name: Porte de Clignancourt
+
+Node: 77
+
+X, Y 1630, 684
+
+Show this metro station
+
+Name: Marcadet–Poissonniers
+
+Node: 78
+
+X, Y 1718, 797
+
+Show this metro station
+
+Name: Château Rouge
+
+Node: 79
+
+X, Y 1715, 859
+
+Show this metro station
+
+Name: Barbès–Rochechouart
+
+Node: 80
+
+X, Y 1799, 943
+
+Show this metro station
+
+Name: Gare du Nord
+
+Node: 81
+
+X, Y 1924, 1001
+
+Show this metro station
+
+Name: Gare de l’Est
+
+Node: 82
+
+X, Y 1950, 1115
+
+Show this metro station
+
+Name: Château d’Eau
+
+Node: 83
+
+X, Y 1869, 1191
+
+Show this metro station
+
+Name: Strasbourg–Saint-Denis
+
+Node: 84
+
+X, Y 1835, 1324
+
+Show this metro station
+
+Name: Étienne Marcel
+
+Node: 85
+
+X, Y 1665, 1509
+
+Show this metro station
+
+Name: Les Halles
+
+Node: 86
+
+X, Y 1666, 1562
+
+Show this metro station
+
+Name: Cité
+
+Node: 87
+
+X, Y 1619, 1710
+
+Show this metro station
+
+Name: Saint-Michel
+
+Node: 88
+
+X, Y 1580, 1817
+
+Show this metro station
+
+Name: Odéon
+
+Node: 89
+
+X, Y 1557, 1873
+
+Show this metro station
+
+Name: Saint-Germain-des-Prés
+
+Node: 90
+
+X, Y 1435, 1868
+
+Show this metro station
+
+Name: Saint-Sulpice
+
+Node: 91
+
+X, Y 1405, 1948
+
+Show this metro station
+
+Name: Saint-Placide
+
+Node: 92
+
+X, Y 1403, 2045
+
+Show this metro station
+
+Name: Montparnasse–Bienvenüe
+
+Node: 93
+
+X, Y 1392, 2142
+
+Show this metro station
+
+Name: Vavin
+
+Node: 94
+
+X, Y 1490, 2146
+
+Show this metro station
+
+Name: Raspail
+
+Node: 95
+
+X, Y 1558, 2187
+
+Show this metro station
+
+Name: Denfert-Rochereau
+
+Node: 96
+
+X, Y 1610, 2245
+
+Show this metro station
+
+Name: Mouton-Duvernet
+
+Node: 97
+
+X, Y 1602, 2334
+
+Show this metro station
+
+Name: Alésia
+
+Node: 98
+
+X, Y 1556, 2433
+
+Show this metro station
+
+Name: Porte d’Orléans
+
+Node: 99
+
+X, Y 1512, 2478
+
+Show this metro station
+
+Name: Bobigny-Pantin–Raymond
+
+Node: 100
+
+X, Y 2664, 798
+
+Show this metro station
+
+Name: Bobigny–Pablo Picasso
+
+Node: 101
+
+X, Y 2744, 723
+
+Show this metro station
+
+Name: Queneau Église de Pantin
+
+Node: 102
+
+X, Y 2612, 849
+
+Show this metro station
+
+Name: Hoche
+
+Node: 103
+
+X, Y 2537, 895
+
+Show this metro station
+
+Name: Porte de Pantin
+
+Node: 104
+
+X, Y 2433, 895
+
+Show this metro station
+
+Name: Ourcq
+
+Node: 105
+
+X, Y 2325, 891
+
+Show this metro station
+
+Name: Laumière
+
+Node: 106
+
+X, Y 2246, 944
+
+Show this metro station
+
+Name: Jaurès
+
+Node: 107
+
+X, Y 2184, 1006
+
+Show this metro station
+
+Name: Jacques Bonsergent
+
+Node: 108
+
+X, Y 1984, 1253
+
+Show this metro station
+
+Name: Oberkampf
+
+Node: 109
+
+X, Y 2091, 1426
+
+Show this metro station
+
+Name: Richard-Lenoir
+
+Node: 110
+
+X, Y 2140, 1591
+
+Show this metro station
+
+Name: Bréguet-Sabin
+
+Node: 111
+
+X, Y 2078, 1653
+
+Show this metro station
+
+Name: Quai de la Rapée
+
+Node: 112
+
+X, Y 2014, 1955
+
+Show this metro station
+
+Name: Gare d’Austerlitz
+
+Node: 113
+
+X, Y 2012, 2099
+
+Show this metro station
+
+Name: Saint-Marcel
+
+Node: 114
+
+X, Y 2013, 2173
+
+Show this metro station
+
+Name: Campo-Formio
+
+Node: 115
+
+X, Y 1969, 2234
+
+Show this metro station
+
+Name: Place d’Italie
+
+Node: 116
+
+X, Y 1898, 2335
+
+Show this metro station
+
+Name: Picpus
+
+Node: 117
+
+X, Y 2530, 1959
+
+Show this metro station
+
+Name: Bel Air
+
+Node: 118
+
+X, Y 2476, 2013
+
+Show this metro station
+
+Name: Daumesnil
+
+Node: 119
+
+X, Y 2422, 2069
+
+Show this metro station
+
+Name: Dugommier
+
+Node: 120
+
+X, Y 1785, 2169
+
+Show this metro station
+
+Name: Bercy
+
+Node: 121
+
+X, Y 2290, 2198
+
+Show this metro station
+
+Name: Quai de la Gare
+
+Node: 122
+
+X, Y 2190, 2296
+
+Show this metro station
+
+Name: Chevaleret
+
+Node: 123
+
+X, Y 2098, 2337
+
+Show this metro station
+
+Name: Nationale
+
+Node: 124
+
+X, Y 2001, 2342
+
+Show this metro station
+
+Name: Corvisart
+
+Node: 125
+
+X, Y 1829, 2340
+
+Show this metro station
+
+Name: Glacière
+
+Node: 126
+
+X, Y 1740, 2340
+
+Show this metro station
+
+Name: Saint-Jacques
+
+Node: 127
+
+X, Y 1664, 2300
+
+Show this metro station
+
+Name: Edgar Quinet
+
+Node: 128
+
+X, Y 1435, 2166
+
+Show this metro station
+
+Name: Pasteur
+
+Node: 129
+
+X, Y 1229, 2162
+
+Show this metro station
+
+Name: Sèvres–Lecourbe
+
+Node: 130
+
+X, Y 1121, 2116
+
+Show this metro station
+
+Name: Cambronne
+
+Node: 131
+
+X, Y 1046, 2045
+
+Show this metro station
+
+Name: La Motte-Picquet–Grenelle
+
+Node: 132
+
+X, Y 910, 1998
+
+Show this metro station
+
+Name: Dupleix
+
+Node: 133
+
+X, Y 809, 1926
+
+Show this metro station
+
+Name: Bir-Hakeim
+
+Node: 134
+
+X, Y 734, 1851
+
+Show this metro station
+
+Name: Passy
+
+Node: 135
+
+X, Y 650, 1771
+
+Show this metro station
+
+Name: Trocadéro
+
+Node: 136
+
+X, Y 638, 1615
+
+Show this metro station
+
+Name: Boissière
+
+Node: 137
+
+X, Y 650, 1494
+
+Show this metro station
+
+Name: Kléber
+
+Node: 138
+
+X, Y 739, 1404
+
+Show this metro station
+
+Name: Fort d’Aubervilliers
+
+Node: 139
+
+X, Y 2422, 585
+
+Show this metro station
+
+Name: La Courneuve–8 mai 1945
+
+Node: 140
+
+X, Y 2424, 502
+
+Show this metro station
+
+Name: Aubervilliers–Pantin–Q. Chemins
+
+Node: 141
+
+X, Y 2350, 678
+
+Show this metro station
+
+Name: Porte de la Villette
+
+Node: 142
+
+X, Y 2271, 757
+
+Show this metro station
+
+Name: Corentin Cariou
+
+Node: 143
+
+X, Y 2227, 801
+
+Show this metro station
+
+Name: Crimée
+
+Node: 144
+
+X, Y 2181, 845
+
+Show this metro station
+
+Name: Riquet
+
+Node: 145
+
+X, Y 2139, 888
+
+Show this metro station
+
+Name: Louis Blanc
+
+Node: 146
+
+X, Y 2095, 1026
+
+Show this metro station
+
+Name: Château Landon
+
+Node: 147
+
+X, Y 2042, 1072
+
+Show this metro station
+
+Name: Poissonnière
+
+Node: 148
+
+X, Y 1739, 1115
+
+Show this metro station
+
+Name: Cadet
+
+Node: 149
+
+X, Y 1601, 1133
+
+Show this metro station
+
+Name: Le Peletier
+
+Node: 150
+
+X, Y 1543, 1188
+
+Show this metro station
+
+Name: Chaussée d’Antin–La Fayette
+
+Node: 151
+
+X, Y 1424, 1316
+
+Show this metro station
+
+Name: Pyramides
+
+Node: 152
+
+X, Y 1351, 1491
+
+Show this metro station
+
+Name: Pont Neuf
+
+Node: 153
+
+X, Y 1530, 1631
+
+Show this metro station
+
+Name: Pont Marie
+
+Node: 154
+
+X, Y 1799, 1727
+
+Show this metro station
+
+Name: Sully–Morland
+
+Node: 155
+
+X, Y 1882, 1810
+
+Show this metro station
+
+Name: Jussieu
+
+Node: 156
+
+X, Y 1843, 2020
+
+Show this metro station
+
+Name: Place Monge
+
+Node: 157
+
+X, Y 1785, 2087
+
+Show this metro station
+
+Name: Censier–Daubenton
+
+Node: 158
+
+X, Y 1789, 2169
+
+Show this metro station
+
+Name: Les Gobelins
+
+Node: 159
+
+X, Y 1843, 2245
+
+Show this metro station
+
+Name: Tolbiac
+
+Node: 160
+
+X, Y 1891, 2401
+
+Show this metro station
+
+Name: Maison Blanche
+
+Node: 161
+
+X, Y 1894, 2461
+
+Show this metro station
+
+Name: Porte d’Italie
+
+Node: 162
+
+X, Y 1974, 2509
+
+Show this metro station
+
+Name: Porte de Choisy
+
+Node: 163
+
+X, Y 2071, 2510
+
+Show this metro station
+
+Name: Porte d’Ivry
+
+Node: 164
+
+X, Y 2169, 2513
+
+Show this metro station
+
+Name: Pierre et Marie Curie
+
+Node: 165
+
+X, Y 2231, 2543
+
+Show this metro station
+
+Name: Mairie d’ Ivry
+
+Node: 166
+
+X, Y 2279, 2590
+
+Show this metro station
+
+Name: Le Kremlin-Bicêtre
+
+Node: 167
+
+X, Y 1893, 2534
+
+Show this metro station
+
+Name: Villejuif–Léo Lagrange
+
+Node: 168
+
+X, Y 1892, 2596
+
+Show this metro station
+
+Name: Villejuif–P. Vaillant-Couturier
+
+Node: 169
+
+X, Y 1893, 2660
+
+Show this metro station
+
+Name: Villejuif–Louis Aragon
+
+Node: 170
+
+X, Y 1891, 2718
+
+Show this metro station
+
+Name: Danube
+
+Node: 171
+
+X, Y 2505, 1010
+
+Show this metro station
+
+Name: Pré-Saint-Gervais
+
+Node: 172
+
+X, Y 2575, 1063
+
+Show this metro station
+
+Name: Botzaris
+
+Node: 173
+
+X, Y 2416, 1081
+
+Show this metro station
+
+Name: Buttes Chaumont
+
+Node: 174
+
+X, Y 2357, 1081
+
+Show this metro station
+
+Name: Bolivar
+
+Node: 175
+
+X, Y 2248, 1059
+
+Show this metro station
+
+Name: Place des Fêtes
+
+Node: 176
+
+X, Y 2501, 1159
+
+Show this metro station
+
+Name: Lourmel
+
+Node: 177
+
+X, Y 819, 2336
+
+Show this metro station
+
+Name: Balard
+
+Node: 178
+
+X, Y 743, 2414
+
+Show this metro station
+
+Name: Boucicaut
+
+Node: 179
+
+X, Y 879, 2272
+
+Show this metro station
+
+Name: Félix Faure
+
+Node: 180
+
+X, Y 909, 2188
+
+Show this metro station
+
+Name: Commerce
+
+Node: 181
+
+X, Y 911, 2107
+
+Show this metro station
+
+Name: École Militaire
+
+Node: 182
+
+X, Y 911, 1864
+
+Show this metro station
+
+Name: La Tour-Maubourg
+
+Node: 183
+
+X, Y 982, 1764
+
+Show this metro station
+
+Name: Invalides
+
+Node: 184
+
+X, Y 1051, 1694
+
+Show this metro station
+
+Name: Madeleine
+
+Node: 185
+
+X, Y 1117, 1476
+
+Show this metro station
+
+Name: Richelieu–Drouot
+
+Node: 186
+
+X, Y 1506, 1324
+
+Show this metro station
+
+Name: Grands Boulevards
+
+Node: 187
+
+X, Y 1613, 1320
+
+Show this metro station
+
+Name: Bonne Nouvelle
+
+Node: 188
+
+X, Y 1758, 1322
+
+Show this metro station
+
+Name: Filles du Calvaire
+
+Node: 189
+
+X, Y 1999, 1504
+
+Show this metro station
+
+Name: Saint-Sébastien–Froissart
+
+Node: 190
+
+X, Y 1999, 1580
+
+Show this metro station
+
+Name: Chemin Vert
+
+Node: 191
+
+X, Y 1998, 1659
+
+Show this metro station
+
+Name: Ledru-Rollin
+
+Node: 192
+
+X, Y 2082, 1810
+
+Show this metro station
+
+Name: Faidherbe–Chaligny
+
+Node: 193
+
+X, Y 2212, 1862
+
+Show this metro station
+
+Name: Montgallet
+
+Node: 194
+
+X, Y 2345, 1996
+
+Show this metro station
+
+Name: Michel Bizot
+
+Node: 195
+
+X, Y 2469, 2116
+
+Show this metro station
+
+Name: Porte Dorée
+
+Node: 196
+
+X, Y 2501, 2172
+
+Show this metro station
+
+Name: Porte de Charenton
+
+Node: 197
+
+X, Y 2443, 2232
+
+Show this metro station
+
+Name: Liberté
+
+Node: 198
+
+X, Y 2497, 2322
+
+Show this metro station
+
+Name: Charenton-Écoles
+
+Node: 199
+
+X, Y 2564, 2387
+
+Show this metro station
+
+Name: École Vétérinaire de Maisons-Alfort
+
+Node: 200
+
+X, Y 2630, 2454
+
+Show this metro station
+
+Name: Maisons-Alfort–Stade
+
+Node: 201
+
+X, Y 2682, 2508
+
+Show this metro station
+
+Name: Maisons-Alfort–Les Juilliottes
+
+Node: 202
+
+X, Y 2680, 2560
+
+Show this metro station
+
+Name: Créteil–L’Échat
+
+Node: 203
+
+X, Y 2683, 2614
+
+Show this metro station
+
+Name: Créteil–Université
+
+Node: 204
+
+X, Y 2681, 2663
+
+Show this metro station
+
+Name: Créteil–Préfecture
+
+Node: 205
+
+X, Y 2682, 2717
+
+Show this metro station
+
+Name: Pointe du Lac
+
+Node: 206
+
+X, Y 2679, 2800
+
+Show this metro station
+
+Name: Billancourt
+
+Node: 207
+
+X, Y 401, 2426
+
+Show this metro station
+
+Name: Pont de Sèvres
+
+Node: 208
+
+X, Y 351, 2475
+
+Show this metro station
+
+Name: Marcel Sembat
+
+Node: 209
+
+X, Y 449, 2377
+
+Show this metro station
+
+Name: Porte de Saint-Cloud
+
+Node: 210
+
+X, Y 497, 2319
+
+Show this metro station
+
+Name: Exelmans
+
+Node: 211
+
+X, Y 497, 2249
+
+Show this metro station
+
+Name: Michel-Ange–Molitor
+
+Node: 212
+
+X, Y 492, 2168
+
+Show this metro station
+
+Name: Michel-Ange–Auteuil
+
+Node: 213
+
+X, Y 494, 2093
+
+Show this metro station
+
+Name: Jasmin
+
+Node: 214
+
+X, Y 494, 1976
+
+Show this metro station
+
+Name: Ranelagh
+
+Node: 215
+
+X, Y 495, 1859
+
+Show this metro station
+
+Name: La Muette
+
+Node: 216
+
+X, Y 495, 1744
+
+Show this metro station
+
+Name: Rue de la Pompe
+
+Node: 217
+
+X, Y 519, 1616
+
+Show this metro station
+
+Name: Iéna
+
+Node: 218
+
+X, Y 762, 1618
+
+Show this metro station
+
+Name: Alma–Marceau
+
+Node: 219
+
+X, Y 895, 1563
+
+Show this metro station
+
+Name: Saint-Philippe-du-Roule
+
+Node: 220
+
+X, Y 1083, 1375
+
+Show this metro station
+
+Name: Miromesnil
+
+Node: 221
+
+X, Y 1144, 1325
+
+Show this metro station
+
+Name: Saint-Augustin
+
+Node: 222
+
+X, Y 1187, 1273
+
+Show this metro station
+
+Name: Saint-Ambroise
+
+Node: 223
+
+X, Y 2229, 1573
+
+Show this metro station
+
+Name: Voltaire
+
+Node: 224
+
+X, Y 2285, 1631
+
+Show this metro station
+
+Name: Charonne
+
+Node: 225
+
+X, Y 2335, 1679
+
+Show this metro station
+
+Name: Rue des Boulets
+
+Node: 226
+
+X, Y 2386, 1736
+
+Show this metro station
+
+Name: Buzenval
+
+Node: 227
+
+X, Y 2544, 1770
+
+Show this metro station
+
+Name: Maraîchers
+
+Node: 228
+
+X, Y 2586, 1729
+
+Show this metro station
+
+Name: Porte de Montreuil
+
+Node: 229
+
+X, Y 2629, 1687
+
+Show this metro station
+
+Name: Robespierre
+
+Node: 230
+
+X, Y 2668, 1647
+
+Show this metro station
+
+Name: Croix de Chavaux
+
+Node: 231
+
+X, Y 2710, 1609
+
+Show this metro station
+
+Name: Mairie de Montreuil
+
+Node: 232
+
+X, Y 2749, 1562
+
+Show this metro station
+
+Name: Boulogne–Jean Jaurès
+
+Node: 233
+
+X, Y 354, 2190
+
+Show this metro station
+
+Name: Boulogne–Pont de Saint-Cloud
+
+Node: 234
+
+X, Y 299, 2246
+
+Show this metro station
+
+Name: Porte d’Auteuil
+
+Node: 235
+
+X, Y 408, 2137
+
+Show this metro station
+
+Name: Église d’Auteuil
+
+Node: 236
+
+X, Y 581, 2093
+
+Show this metro station
+
+Name: Javel–André Citroën
+
+Node: 237
+
+X, Y 709, 2091
+
+Show this metro station
+
+Name: Charles Michels
+
+Node: 238
+
+X, Y 798, 2068
+
+Show this metro station
+
+Name: Avenue Émile Zola
+
+Node: 239
+
+X, Y 842, 2022
+
+Show this metro station
+
+Name: Ségur
+
+Node: 240
+
+X, Y 1091, 2065
+
+Show this metro station
+
+Name: Duroc
+
+Node: 241
+
+X, Y 1192, 2043
+
+Show this metro station
+
+Name: Vaneau
+
+Node: 242
+
+X, Y 1251, 1983
+
+Show this metro station
+
+Name: Sèvres–Babylone
+
+Node: 243
+
+X, Y 1314, 1923
+
+Show this metro station
+
+Name: Mabillon
+
+Node: 244
+
+X, Y 1466, 1885
+
+Show this metro station
+
+Name: Cluny–La Sorbonne
+
+Node: 245
+
+X, Y 1638, 1885
+
+Show this metro station
+
+Name: Maubert–Mutualité
+
+Node: 246
+
+X, Y 1703, 1934
+
+Show this metro station
+
+Name: Cardinal Lemoine
+
+Node: 247
+
+X, Y 1758, 1986
+
+Show this metro station
+
+Name: Chardon–Lagache
+
+Node: 248
+
+X, Y 543, 2171
+
+Show this metro station
+
+Name: Mirabeau
+
+Node: 249
+
+X, Y 619, 2143
+
+Show this metro station
+
+Name: Mairie des Lilas
+
+Node: 250
+
+X, Y 2749, 1067
+
+Show this metro station
+
+Name: Télégraphe
+
+Node: 251
+
+X, Y 2601, 1162
+
+Show this metro station
+
+Name: Jourdain
+
+Node: 252
+
+X, Y 2406, 1167
+
+Show this metro station
+
+Name: Pyrénées
+
+Node: 253
+
+X, Y 2294, 1166
+
+Show this metro station
+
+Name: Goncourt
+
+Node: 254
+
+X, Y 2122, 1284
+
+Show this metro station
+
+Name: Rambuteau
+
+Node: 255
+
+X, Y 1862, 1547
+
+Show this metro station
+
+Name: Corentin Celton
+
+Node: 256
+
+X, Y 865, 2525
+
+Show this metro station
+
+Name: Mairie d’Issy
+
+Node: 257
+
+X, Y 790, 2600
+
+Show this metro station
+
+Name: Porte de Versailles
+
+Node: 258
+
+X, Y 938, 2457
+
+Show this metro station
+
+Name: Convention
+
+Node: 259
+
+X, Y 1006, 2385
+
+Show this metro station
+
+Name: Vaugirard
+
+Node: 260
+
+X, Y 1076, 2316
+
+Show this metro station
+
+Name: Volontaires
+
+Node: 261
+
+X, Y 1145, 2245
+
+Show this metro station
+
+Name: Falguière
+
+Node: 262
+
+X, Y 1259, 2132
+
+Show this metro station
+
+Name: Notre-Dame-des-Champs
+
+Node: 263
+
+X, Y 1444, 2077
+
+Show this metro station
+
+Name: Rennes
+
+Node: 264
+
+X, Y 1380, 1987
+
+Show this metro station
+
+Name: Rue du Bac
+
+Node: 265
+
+X, Y 1249, 1859
+
+Show this metro station
+
+Name: Solférino
+
+Node: 266
+
+X, Y 1184, 1792
+
+Show this metro station
+
+Name: Assemblée Nationale
+
+Node: 267
+
+X, Y 1116, 1726
+
+Show this metro station
+
+Name: Trinité–D’Estienne d’Orves
+
+Node: 268
+
+X, Y 1372, 1149
+
+Show this metro station
+
+Name: Notre-Dame-de-Lorette
+
+Node: 269
+
+X, Y 1526, 1149
+
+Show this metro station
+
+Name: Saint-Georges
+
+Node: 270
+
+X, Y 1553, 1046
+
+Show this metro station
+
+Name: Abbesses
+
+Node: 271
+
+X, Y 1551, 870
+
+Show this metro station
+
+Name: Lamark–Caulaincourt
+
+Node: 272
+
+X, Y 1552, 810
+
+Show this metro station
+
+Name: Jules Joffrin
+
+Node: 273
+
+X, Y 1629, 800
+
+Show this metro station
+
+Name: Marx Dormoy
+
+Node: 274
+
+X, Y 1956, 770
+
+Show this metro station
+
+Name: Porte de la Chapelle
+
+Node: 275
+
+X, Y 1955, 695
+
+Show this metro station
+
+Name: Malakoff–Rue Étienne Dolet
+
+Node: 276
+
+X, Y 1163, 2634
+
+Show this metro station
+
+Name: Châtillon–Montrouge
+
+Node: 277
+
+X, Y 1163, 2717
+
+Show this metro station
+
+Name: Malakoff–Plateau de Vanves
+
+Node: 278
+
+X, Y 1164, 2548
+
+Show this metro station
+
+Name: Porte de Vanves
+
+Node: 279
+
+X, Y 1203, 2469
+
+Show this metro station
+
+Name: Plaisance
+
+Node: 280
+
+X, Y 1281, 2391
+
+Show this metro station
+
+Name: Pernety
+
+Node: 281
+
+X, Y 1348, 2324
+
+Show this metro station
+
+Name: Gaîté
+
+Node: 282
+
+X, Y 1389, 2258
+
+Show this metro station
+
+Name: Saint-François-Xavier
+
+Node: 283
+
+X, Y 1096, 1948
+
+Show this metro station
+
+Name: Varenne
+
+Node: 284
+
+X, Y 1051, 1808
+
+Show this metro station
+
+Name: Liège
+
+Node: 285
+
+X, Y 1260, 1043
+
+Show this metro station
+
+Name: La Fourche
+
+Node: 286
+
+X, Y 1259, 864
+
+Show this metro station
+
+Name: Brochant
+
+Node: 287
+
+X, Y 1192, 780
+
+Show this metro station
+
+Name: Porte de Clichy
+
+Node: 288
+
+X, Y 1136, 720
+
+Show this metro station
+
+Name: Mairie de Clichy
+
+Node: 289
+
+X, Y 1026, 613
+
+Show this metro station
+
+Name: Gabriel Péri
+
+Node: 290
+
+X, Y 921, 508
+
+Show this metro station
+
+Name: Les Agnettes
+
+Node: 291
+
+X, Y 875, 459
+
+Show this metro station
+
+Name: Asnières–Gennevilliers - Les Courtilles
+
+Node: 292
+
+X, Y 829, 417
+
+Show this metro station
+
+Name: Guy Môquet
+
+Node: 293
+
+X, Y 1260, 769
+
+Show this metro station
+
+Name: Porte de Saint-Ouen
+
+Node: 294
+
+X, Y 1259, 687
+
+Name: Garibaldi
+
+Node: 295
+
+X, Y 1322, 604
+
+Show this metro station
+
+Name: Mairie de Saint-Ouen
+
+Node: 296
+
+X, Y 1395, 532
+
+Show this metro station
+
+Name: Carrefour Pleyel
+
+Node: 297
+
+X, Y 1468, 462
+
+Name: Saint-Denis–Porte de Paris
+
+Node: 298
+
+X, Y 1635, 425
+
+Name: Basilique de Saint-Denis
+
+Node: 299
+
+X, Y 1822, 382
+
+Name: Saint-Denis–Université
+
+Node: 300
+
+X, Y 1906, 299
+
+Name: Cour Saint-Émilion
+
+Node: 301
+
+X, Y 2344, 2305
+
+Name: Bibliothèque François Mitterrand
+
+Node: 302
+
+X, Y 2285, 2365
+
+Name: Olympiades
+
+Node: 303
+
+X, Y 2132, 2416
