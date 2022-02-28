@@ -1,3 +1,4 @@
+# One day in Paris
 Can you visit every Paris Metro station in one day?
 
 We're answering that question with this project. (Yes, we have a solution in under 14 hours)
@@ -5,3 +6,17 @@ We're answering that question with this project. (Yes, we have a solution in und
 I believe the graph data came from here originally:
 
 http://www.esiee.fr/~coupriem/Graphestp3/graphestp3.html
+
+# Setup
+
+Run the commands in bin/setup
+
+# Execution
+
+```
+ruby build_data.rb
+ruby route.rb
+python tsp.py
+```
+
+You can then visualize the route using `plotter-app`.

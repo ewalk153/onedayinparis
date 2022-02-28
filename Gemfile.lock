@@ -15,6 +15,7 @@ GEM
 PLATFORMS
   arm64-darwin-21
   x86_64-darwin-20
+  x86_64-darwin-21
 
 DEPENDENCIES
   priority_queue_cxx (~> 0.3.4)
