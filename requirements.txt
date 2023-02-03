@@ -1,5 +1,5 @@
 absl-py==1.0.0
 numpy==1.22.2
-ortools==9.2.9972
-protobuf==3.19.4
+ortools==9.5.2237
+protobuf==4.21.12
 six==1.16.0
